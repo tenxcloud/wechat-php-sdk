@@ -1,6 +1,8 @@
 微信公众平台 PHP SDK
 =====
 
+感谢[netputer](https://github.com/netputer/wechat-php-sdk)提供的微信公众平台 PHP SDK，并由[时速云](https://www.tenxcloud.com)将其容器化
+
 介绍
 -----
 简单的微信公众平台 PHP SDK ，通过调用相应的接口，使你可以轻松地开发微信 App 。测试方法如下：
